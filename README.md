@@ -37,7 +37,7 @@ Here, you’ll find projects from my academic journey, including algorithms, sof
 **[WNBA Multi-Task Prediction Model](https://github.com/oManuelmo/Y4S1_ComputationalLearning)** - ML system predicting three distinct WNBA outcomes from historical data using scikit-learn, with Three.js dashboard for result visualization.
 *Technologies: Python ML pipeline • scikit-learn models • Jupyter notebooks • Data analytics*
 
-<h2 align = "center" >Projects</h2>
+<h2 align = "center" >Academic Projects</h2>
 <p align = "center">
 
 | UC   | Description                                                                                                                                                   | Grade (/20) |
@@ -54,3 +54,5 @@ Here, you’ll find projects from my academic journey, including algorithms, sof
 | [**PFL**](https://github.com/oManuelmo/Y3S1_FunctionalAndLogicalProgramming) | Travel salesman problem using haskell and Mabula game developed with PROLOG | 17.0 & 17.6 |
 | [**RCOM**](https://github.com/oManuelmo/Y3S1_ComputerNetworks) | Computer networks projects about Serial port Protocol and FTP | 19.5 & 18.6 |
 | [**LTW**](https://github.com/oManuelmo/Y2S2_WebLanguagesAndTechnology)  | Online game shop application using PHP and SQLite3  | 14.5 |
+
+<h3 align = "center" ><a href="mailto:up20220500@up.pt">Contact me!</a></h3>
