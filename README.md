@@ -3,7 +3,6 @@
 <img href="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <h1 align = "center" >Hi, I am Manuel Mo </h1>
-
 </div>
 
 I’m a first-year Master’s student in Informatics and Computing Engineering at [FEUP](https://www.up.pt/feup/pt/), and a Research Assistant at [INESC TEC’s](https://www.inesctec.pt/pt) Telecommunications and Multimedia Center.
@@ -45,7 +44,7 @@ Here, you’ll find projects from my academic journey, including algorithms, sof
 | [**DSLE**](https://github.com/oManuelmo/Y4S1_LargeScaleSoftwareDev) | Recommendations microservice for a online shop using Python, NodeJS, ReactJS, PubSub,, PostgreSQL/Redis and GCP/Terraform | 18.4 |
 | [**AC**](https://github.com/oManuelmo/Y4S1_ComputationalLearning) | WNBA season predictions using supervised learning | 14.8 |
 | [**SDLE**](https://github.com/oManuelmo/Y4S1_LargeScaleDistSys) | Local-first shopping list app leveraging CRDTs for consistent data replication between nodes | 18.3 |
-| [**SGI**](https://github.com/oManuelmo/Y4S1_InteractiveGraphicsSystems) | Two interactive 3D scenes created using Three.js, featuring a room and a subaquatic view | 18.5 & TBD |
+| [**SGI**](https://github.com/oManuelmo/Y4S1_InteractiveGraphicsSystems) | Two interactive 3D scenes created using Three.js, featuring a room and a subaquatic view | 18.5 & 19.7 |
 | [**CPD**](https://github.com/oManuelmo/Y3S2_ParallelAndDistributedComp) | Report about a study for parallel computing and distributed chat system project utilizing locks for concurrency control | 15.2 & 18.2 |
 | [**COMP**](https://github.com/oManuelmo/Y3S2_Compilers) | Basic compiler implementation for a Java-like language | 18.7 |
 | [**CG**](https://github.com/oManuelmo/Y3S2_ComputerGraphics) | Interactive 3D scene created using WebGL, featuring detailed objects and material effects | 16.8 |
