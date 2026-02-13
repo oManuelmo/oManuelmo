@@ -3,9 +3,9 @@
 <img href="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <h1 align = "center" >Hi, I am Manuel Mo </h1>
-</div>
 
 ![](https://komarev.com/ghpvc/?username=oManuelmo&abbreviated=true&base=600&style=for-the-badge)
+</div>
 
 I’m a first-year Master’s student in Informatics and Computing Engineering at [FEUP](https://www.up.pt/feup/pt/), and a Research Assistant at [INESC TEC’s](https://www.inesctec.pt/pt) Telecommunications and Multimedia Center.
 
