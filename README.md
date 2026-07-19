@@ -12,7 +12,7 @@ I’m a first-year Master’s student in Informatics and Computing Engineering a
 Here, you’ll find projects from my academic journey, including algorithms, software applications, and research-oriented work.
 
 ### 🎯 Current Focus
-- Research Assistant at INESC TEC working on [**CONVERGE**](https://converge-project.eu/) project, focusing on 
+- Research Assistant at INESC TEC working on [**CONVERGE**](https://converge-project.eu/) project, focusing on camera output FPS and computer vision.
 - MSc student in Informatics and Computing Engineering at FEUP
 - Currently working with: Python (Web, data/ML), TypeScript (NodeJS + ReactJS), Three.js (3D visualization)
 
