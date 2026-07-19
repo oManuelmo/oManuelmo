@@ -43,7 +43,7 @@ Here, you’ll find projects from my academic journey, including algorithms, sof
 
 | UC | Description | Technologies | Grade (/20) |
 |------|-------------|--------------|-------------|
-| [**LGP**](https://github.com/oManuelmo/Y4S2_ProjManagementLab) | Website for certified litters to anounce their puppies | ReactJS, NodeJS, PostgreSQL | TBD |
+| [**LGP**](https://github.com/oManuelmo/Y4S2_ProjManagementLab) | Website for certified litters to anounce their puppies | ReactJS, FastAPI, PostgreSQL, Automated Emails | TBD |
 | [**EDAA**](https://github.com/oManuelmo/Y4S2_AdvancedDataStruct) | van Emde Boas and Bloom filters projects | C++, CMake | 18.25 & 19.0 |
 | [**MFS**](https://github.com/oManuelmo/Y4S2_FormalMethodsForCS) | Elevator System Specification and Refinement & "reverse" and "grep" creation with Dafny | TLA+, Dafny | 16.5 & 13.5 |
 | [**Optimization**](https://github.com/oManuelmo/Y4S2_Optimization) | Hardware Procurement | CPLEX | 19.0 |
