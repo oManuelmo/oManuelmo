@@ -41,19 +41,24 @@ Here, you’ll find projects from my academic journey, including algorithms, sof
 <h2 align = "center" >Academic Projects</h2>
 <p align = "center">
 
-| UC   | Description                                                                                                                                                   | Grade (/20) |
-|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| [**DSLE**](https://github.com/oManuelmo/Y4S1_LargeScaleSoftwareDev) | Recommendations microservice for a online shop using Python, NodeJS, ReactJS, PubSub,, PostgreSQL/Redis and GCP/Terraform | 18.4 |
-| [**AC**](https://github.com/oManuelmo/Y4S1_ComputationalLearning) | WNBA season predictions using supervised learning | 14.8 |
-| [**SDLE**](https://github.com/oManuelmo/Y4S1_LargeScaleDistSys) | Local-first shopping list app leveraging CRDTs for consistent data replication between nodes | 18.3 |
-| [**SGI**](https://github.com/oManuelmo/Y4S1_InteractiveGraphicsSystems) | Two interactive 3D scenes created using Three.js, featuring a room and a subaquatic view | 18.5 & 19.7 |
-| [**CPD**](https://github.com/oManuelmo/Y3S2_ParallelAndDistributedComp) | Report about a study for parallel computing and distributed chat system project utilizing locks for concurrency control | 15.2 & 18.2 |
-| [**COMP**](https://github.com/oManuelmo/Y3S2_Compilers) | Basic compiler implementation for a Java-like language | 18.7 |
-| [**CG**](https://github.com/oManuelmo/Y3S2_ComputerGraphics) | Interactive 3D scene created using WebGL, featuring detailed objects and material effects | 16.8 |
-| [**IA**](https://github.com/oManuelmo/Y3S2_ArtificialInteligence) | FreeCell Solitaire game with an inteligent bot and supervised learning notebook for predicting employee promotion | 18.8 & 18.5 |
-| [**LBAW**](https://github.com/oManuelmo/Y3S1_DatabaseAndWebAppsLab) | Paint auctions web application developed with Laravel | 16.6 |
-| [**PFL**](https://github.com/oManuelmo/Y3S1_FunctionalAndLogicalProgramming) | Travel salesman problem using haskell and Mabula game developed with PROLOG | 17.0 & 17.6 |
-| [**RCOM**](https://github.com/oManuelmo/Y3S1_ComputerNetworks) | Computer networks projects about Serial port Protocol and FTP | 19.5 & 18.6 |
-| [**LTW**](https://github.com/oManuelmo/Y2S2_WebLanguagesAndTechnology)  | Online game shop application using PHP and SQLite3  | 14.5 |
+| UC | Description | Technologies | Grade (/20) |
+|------|-------------|--------------|-------------|
+| [**LGP**](https://github.com/oManuelmo/Y4S2_ProjManagementLab) | Website for certified litters to anounce their puppies | ReactJS, NodeJS, PostgreSQL | TBD |
+| [**EDAA**](https://github.com/oManuelmo/Y4S2_AdvancedDataStruct) | van Emde Boas and Bloom filters projects | C++, CMake | 18.25 & 19.0 |
+| [**MFS**](https://github.com/oManuelmo/Y4S2_FormalMethodsForCS) | Elevator System Specification and Refinement & "reverse" and "grep" creation with Dafny | TLA+, Dafny | 16.5 & 13.5 |
+| [**Optimization**](https://github.com/oManuelmo/Y4S2_Optimization) | Hardware Procurement | CPLEX | 19.0 |
+| [**ASSO**](https://github.com/oManuelmo/Y4S2_SoftwareSystemsArchitecture)| Assigments about software systems architecture | C4 diagrams, UML | 18.0 |
+| [**DSLE**](https://github.com/oManuelmo/Y4S1_LargeScaleSoftwareDev) | Recommendations microservice for a online shop | Python, NodeJS, ReactJS, PubSub, PostgreSQL, Redis, GCP, Terraform | 18.4 |
+| [**AC**](https://github.com/oManuelmo/Y4S1_ComputationalLearning) | WNBA season predictions using supervised learning | Python, scikit-learn, pandas, Jupyter | 14.8 |
+| [**SDLE**](https://github.com/oManuelmo/Y4S1_LargeScaleDistSys) | Local-first shopping list app leveraging CRDTs for consistent data replication between nodes | JavaScript, CRDTs, Node.js | 18.3 |
+| [**SGI**](https://github.com/oManuelmo/Y4S1_InteractiveGraphicsSystems) | Two interactive 3D scenes featuring a room and a subaquatic view | Three.js, JavaScript, HTML, CSS | 18.5 & 19.7 |
+| [**CPD**](https://github.com/oManuelmo/Y3S2_ParallelAndDistributedComp) | Report on parallel computing study and distributed chat system utilizing locks for concurrency control | Java, Threads, Locks, Sockets | 15.2 & 18.2 |
+| [**COMP**](https://github.com/oManuelmo/Y3S2_Compilers) | Basic compiler implementation for a Java-like language | Java, ANTLR, Lexer/Parser | 18.7 |
+| [**CG**](https://github.com/oManuelmo/Y3S2_ComputerGraphics) | Interactive 3D scene with detailed objects and material effects | WebGL, JavaScript, HTML, CSS | 16.8 |
+| [**IA**](https://github.com/oManuelmo/Y3S2_ArtificialInteligence) | FreeCell Solitaire game with intelligent bot and supervised learning for employee promotion prediction | Python, scikit-learn, pandas, Jupyter, AI Search Algorithms | 18.8 & 18.5 |
+| [**LBAW**](https://github.com/oManuelmo/Y3S1_DatabaseAndWebAppsLab) | Paint auctions web application | Laravel, PHP, MySQL, HTML, CSS, JavaScript | 16.6 |
+| [**PFL**](https://github.com/oManuelmo/Y3S1_FunctionalAndLogicalProgramming) | Travel salesman problem (Haskell) and Mabula game (PROLOG) | Haskell, PROLOG | 17.0 & 17.6 |
+| [**RCOM**](https://github.com/oManuelmo/Y3S1_ComputerNetworks) | Serial port protocol and FTP projects | C, Sockets, FTP Protocol, Serial Communication | 19.5 & 18.6 |
+| [**LTW**](https://github.com/oManuelmo/Y2S2_WebLanguagesAndTechnology) | Online game shop application | PHP, SQLite3, HTML, CSS, JavaScript | 14.5 |
 
 <h3 align = "center" ><a href="mailto:up20220500@up.pt">Contact me!</a></h3>
