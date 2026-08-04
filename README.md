@@ -35,7 +35,7 @@ Here, you’ll find projects from my academic journey, including algorithms, sof
 **[Large-Scale Recommendation System](https://github.com/oManuelmo/Y4S1_LargeScaleSoftwareDev)** - Event-driven microservices architecture for e-commerce recommendations using Google Pub/Sub for asynchronous communication between ML pipeline and application services.
 *Stack: Python/Node.js/React.js • Surprise ML • Google Pub/Sub • PostgreSQL/Redis • GCP/Terraform*
 
-**[WNBA Multi-Task Prediction Model](https://github.com/oManuelmo/Y4S1_ComputationalLearning)** - ML system predicting three distinct WNBA outcomes from historical data using scikit-learn, with Three.js dashboard for result visualization.
+**[WNBA Multi-Task Prediction Model](https://github.com/oManuelmo/Y4S1_ComputationalLearning)** - Built a machine learning pipeline to predict three distinct WNBA outcomes from historical data using scikit-learn. Performed data preprocessing, feature engineering, model training, and developed an interactive dashboard for result visualization.
 *Technologies: Python ML pipeline • scikit-learn models • Jupyter notebooks • Data analytics*
 
 <h2 align = "center" >Academic Projects</h2>
